@@ -1,0 +1,2 @@
+name = "tornike"
+print(name)
